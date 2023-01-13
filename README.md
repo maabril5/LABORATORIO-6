@@ -12,7 +12,7 @@ TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA.
 
 1. OBJETIVOS GENERALES
 
-- Aplicar el teorema de máxima trsferencia de potencia para la aplicación de un circuito.
+- Aplicar el teorema de máxima trasferencia de potencia para la aplicación de un circuito.
 
 - Realizar un video explicativo de los debidos procedimientos para el cálculo de cada resistencia, corriente y voltaje del circuito propuesto.
 
@@ -74,11 +74,15 @@ En este caso, la máxima transferencia de potencia se obtiene cuando la resisten
 
 Se puede observar que mientras el valor de la resistencia de carga aumenta la potencia también lo hace, sin embargo, hay un punto máximo en donde a pesar de que RL aumenta la potencia comienza a disminuir, comprobando gráficamente que si se cumple el teorema de la Máxima Transferencia de Potencia.
 
-VIDEO.
+4.9 Calcular errores de las mediciones y comentar los resultados.
 
 
 
-CONCLUSIONES.
+5. VIDEO.
+
+
+
+6. CONCLUSIONES.
 
 - Se pudo determinar que el teorema de la máxima transferencia de potencia se relaciona con el teorema de Thévenin, ya que este usa dicho circuito equivalente, con una resistencia y su carga de salida.
 
@@ -88,9 +92,11 @@ CONCLUSIONES.
 
 - Mediante un video explicativo se llego a desarrollar conocimientos y comprender el tema con mejor amplitud, poniéndolo en práctica.
 
-BIBLIOGRAFÍA.
+7. BIBLIOGRAFÍA.
 
-Thomas L. Floyd. (2007). Principios de circuitos electrónicos. PEARSON EDUCACIÓN, México
+- Thomas L. Floyd. (2007). Principios de circuitos electrónicos. PEARSON EDUCACIÓN, México
+
+- Teorema de transferencia de potencia máxima. (2019, octubre 26). La fisica y quimica. https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
 
 
 
