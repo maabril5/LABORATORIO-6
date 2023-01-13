@@ -164,6 +164,8 @@ Se puede observar que mientras el valor de la resistencia de carga aumenta la po
 
 - Teorema de transferencia de potencia máxima. (2019, octubre 26). La fisica y quimica. https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
 
+- Circuit Simulator Online - DCACLab. (s/f). Dcaclab.com. Recuperado el 13 de enero de 2023, de https://dcaclab.com/es/lab
+
 
 
 
