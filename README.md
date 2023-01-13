@@ -46,9 +46,51 @@ Los materiales necesarios para realizar el laboratorio 6 son:
 
 ![image](https://user-images.githubusercontent.com/117920423/212231931-74c49c61-4a95-4d37-ae81-d56d6250a053.png)
 
+![image](https://user-images.githubusercontent.com/117920423/212232134-ef27f4f8-6869-4634-8bb8-e87beb297709.png)
+
 4. Cálculos Analíticos.
 
 4.1 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
+
+![image](https://user-images.githubusercontent.com/117920423/212232748-5c99c80d-8a05-4ed0-abd4-082acfdf9507.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212232760-894537d6-a7f9-4b4a-8f4f-33bcea0f226c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212232775-b1b8c471-8260-4ce2-b209-d30a2667b5dd.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212232806-d35b3f10-11d3-428a-b5ed-5e5897c5278c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212232832-3b9d6f0a-ee18-4c63-8e60-96c98f88d18b.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212232862-cb80e78a-5118-491b-89ba-c774f94106e8.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212232890-58abb1fe-9ca9-4a54-a2ee-2184a7bcce2b.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212232910-db8b47cd-6c33-4f2e-803e-5e364b42c4e9.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212232938-6b947f7d-7e9e-4a9c-adda-7ecb4f843041.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212232962-17158243-5513-4ee4-96a9-c819b27f9b9b.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212233087-6ca1829e-3e05-4ff9-85d7-d20dba7fc8a8.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212233136-6a624882-d676-49c2-9d5e-f88a0cad19ca.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212233154-60db540f-8a59-431e-b0c2-1daa952b592b.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212233170-b886a2f4-dcc4-407c-a5fc-341c72fb488a.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212233190-7fac7a8c-0589-432b-a8fa-b5da2eb59641.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212233212-ecb49661-bada-4222-9238-37ed11e005f6.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212233230-51a35876-b23e-439f-aaee-9d9278dee619.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212233254-ba05edce-784a-4ec8-8a81-4bba5fb62cf8.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212233274-faddd953-5a90-47b3-947f-f077f32ef105.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212233303-a5c3bfd3-fa0a-487d-a7ed-745eea4c582f.png)
 
 4.2 Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
 
