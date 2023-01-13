@@ -74,6 +74,24 @@ En este caso, la máxima transferencia de potencia se obtiene cuando la resisten
 
 Se puede observar que mientras el valor de la resistencia de carga aumenta la potencia también lo hace, sin embargo, hay un punto máximo en donde a pesar de que RL aumenta la potencia comienza a disminuir, comprobando gráficamente que si se cumple el teorema de la Máxima Transferencia de Potencia.
 
+VIDEO.
+
+
+
+CONCLUSIONES.
+
+- Se pudo determinar que el teorema de la máxima transferencia de potencia se relaciona con el teorema de Thévenin, ya que este usa dicho circuito equivalente, con una resistencia y su carga de salida.
+
+- El teorema de la máxima potencia de transferencia explica cómo aprovechar al máximo la energía que proporcionan los elementos en un circuito.
+
+- Con la ayuda del vatímetro se pudo calcular la potencia establecida encontrada referente a la resistencia de carga.
+
+- Mediante un video explicativo se llego a desarrollar conocimientos y comprender el tema con mejor amplitud, poniéndolo en práctica.
+
+BIBLIOGRAFÍA.
+
+Thomas L. Floyd. (2007). Principios de circuitos electrónicos. PEARSON EDUCACIÓN, México
+
 
 
 
