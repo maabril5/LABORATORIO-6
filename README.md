@@ -40,7 +40,7 @@ Los materiales necesarios para realizar el laboratorio 6 son:
 
 ![image](https://user-images.githubusercontent.com/117920423/212212525-90a6b4bd-ec03-4f2b-b64f-826f53dbf86f.png)
 
-3.2 Se construyó el circuito en el laboratorio virtual Tinkercad y también fisicamente.
+3.2 Se construyó el circuito en el laboratorio virtual Tinkercad, fisicamente y en DCACLab.
 
 ![image](https://user-images.githubusercontent.com/117920423/212231894-d3df1c36-1b76-47e4-ad33-44399fccb311.png)
 
