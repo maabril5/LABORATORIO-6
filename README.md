@@ -146,7 +146,7 @@ Se puede observar que mientras el valor de la resistencia de carga aumenta la po
 
 5. VIDEO.
 
-
+https://youtube.com/watch?v=Dabq42ii-jI&si=EnSIkaIECMiOmarE
 
 6. CONCLUSIONES.
 
