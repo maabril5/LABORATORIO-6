@@ -42,6 +42,10 @@ Los materiales necesarios para realizar el laboratorio 6 son:
 
 3.2 Se construyó el circuito en el laboratorio virtual Tinkercad y también fisicamente.
 
+![image](https://user-images.githubusercontent.com/117920423/212231894-d3df1c36-1b76-47e4-ad33-44399fccb311.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212231931-74c49c61-4a95-4d37-ae81-d56d6250a053.png)
+
 4. Cálculos Analíticos.
 
 4.1 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
