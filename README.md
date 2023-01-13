@@ -142,7 +142,7 @@ Se puede observar que mientras el valor de la resistencia de carga aumenta la po
 
 4.9 Calcular errores de las mediciones y comentar los resultados.
 
-
+![image](https://user-images.githubusercontent.com/117920423/212238350-668f5458-480e-42ec-89dc-c7be926ea0a8.png)
 
 5. VIDEO.
 
