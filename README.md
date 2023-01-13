@@ -120,7 +120,7 @@ Los materiales necesarios para realizar el laboratorio 6 son:
 
 4.4 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
-![image](https://user-images.githubusercontent.com/117920423/212234902-60625b8a-2063-473e-bf68-1f4cfa4fd843.png)
+![image](https://user-images.githubusercontent.com/117920423/212235033-1efb85e1-fc42-40f9-a5ac-8f9d36819f98.png)
 
 4.5 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
