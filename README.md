@@ -98,6 +98,26 @@ Los materiales necesarios para realizar el laboratorio 6 son:
 
 4.3 Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 6.1.
 
+![image](https://user-images.githubusercontent.com/117920423/212233716-11ace777-0de5-4c30-a172-3ffa6aa546ba.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212233935-2fd806f4-579b-40b4-bb64-200096bb3309.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212233988-cbeddd5c-f09f-4949-99ac-c2f052fb90ac.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212234009-c7c81a46-5003-4a51-ae1f-1b330288596c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212234042-62ca261f-cf14-47bd-bb96-4634fe652b4b.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212234070-cbd9db96-aede-4bfc-aea3-b87882eef67d.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212234097-66b65f3a-0f16-453e-8f17-bbdfaed92a4b.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212234143-53b951b2-a17e-48b0-9d0d-40d9e6f9412a.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212234181-44fb8aed-eb07-4ac2-b6bd-b861f2e47fb9.png)
+
+![image](https://user-images.githubusercontent.com/117920423/212234193-7ba54cc9-63b8-4c5d-a40f-4130b7b12439.png)
+
 4.4 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 ![image](https://user-images.githubusercontent.com/117920423/212214393-e1c799e0-f8b0-4edc-8c89-17a856c1a476.png)
