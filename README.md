@@ -54,6 +54,8 @@ Los materiales necesarios para realizar el laboratorio 6 son:
 
 4.4 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
+![image](https://user-images.githubusercontent.com/117920423/212214393-e1c799e0-f8b0-4edc-8c89-17a856c1a476.png)
+
 4.5 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
 En este caso si se cumple el teorema de la máxima transferencia de energía, ya que, cuando RL se acerca al valor de la resistencia equivalente de Thévenin la potencia incrementa, pero comienza a disminuir al momento de que aumenta el valor de RL
